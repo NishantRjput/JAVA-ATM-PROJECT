@@ -1,4 +1,4 @@
-# -JAVA-ATM-PROJECT-
+# -ATM-MACHINE-
 U can easily perform transactions similar to a real ATM .
 Login Credentials :- 
 👇👇👇👇👇👇👇👇
